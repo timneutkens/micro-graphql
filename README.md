@@ -1,6 +1,14 @@
 # Micro-graphql
 Example usage of GraphQL with Zeit's micro
 
+## Installation
+
+`npm install -g micro` or `yarn global add micro`
+
+## Usage
+
+Create an `index.js` file with the following contents:
+
 ```javascript
 const { buildSchema } = require('graphql')
 const graphqlHTTP = require('express-graphql')
@@ -21,3 +29,6 @@ module.exports = graphqlHTTP({
   graphiql: true
 })
 ```
+
+Then run 
+`micro index.js`
