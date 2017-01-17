@@ -30,5 +30,10 @@ module.exports = graphqlHTTP({
 })
 ```
 
-Then run 
+Then run
 `micro index.js`
+
+## Boilerplates
+
+[Kennet Postigo](https://github.com/kennetpostigo) made an excellent boilerplate based on the example above:
+[hyperfuse/micro-graphql](https://github.com/hyperfuse/micro-graphql)
