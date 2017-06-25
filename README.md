@@ -37,3 +37,8 @@ Then run
 
 [Kennet Postigo](https://github.com/kennetpostigo) made an excellent boilerplate based on the example above:
 [hyperfuse/micro-graphql](https://github.com/hyperfuse/micro-graphql)
+
+## Alternatives
+
+[Micro with Apollo](https://github.com/timneutkens/micro-apollo)
+
