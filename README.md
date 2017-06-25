@@ -1,5 +1,5 @@
 # Micro-graphql
-Example usage of GraphQL with Zeit's micro
+Example usage of GraphQL with ZEIT's micro
 
 ## Installation
 
